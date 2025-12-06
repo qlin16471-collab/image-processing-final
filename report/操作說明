@@ -1,0 +1,10 @@
+影像處理期末報告執行教學】
+
+1. 請先安裝 Python (建議 3.9 或 3.10 以上)。
+2. 開啟 VS Code，打開這個資料夾。
+3. 在終端機 (Terminal) 輸入以下指令安裝必要的套件：
+   pip install streamlit opencv-python-headless numpy pillow matplotlib
+
+4. 安裝完成後，輸入以下指令啟動程式：
+   streamlit run app.py
+   
